@@ -2,6 +2,8 @@ python=3.6
 cuda==10.0
 numpy==1.19.5
 scipy==1.2.1
+opencv-python==3.4.2
+opencv-contrib-python==3.4.2
 sklearn
 torch==torch-1.2.0-cp36-cp36m-win_amd64.whl
 torchvision==torchvision-0.4.0-cp36-cp36m-win_amd64.whl
